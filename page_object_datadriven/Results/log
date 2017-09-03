@@ -1,0 +1,19 @@
+2017-09-03 22:22:50,123 INFO  (main) [Log(info:10)] User is navigated to the home page
+2017-09-03 22:22:50,350 INFO  (main) [Log(info:10)] Username field is present
+2017-09-03 22:22:51,332 INFO  (main) [Log(info:10)] Home page is validated using page title
+2017-09-03 22:23:06,419 INFO  (main) [Log(info:10)] Flight Finder page validated sucessfully
+2017-09-03 22:23:06,442 INFO  (main) [Log(info:10)] Flight Finder page validated sucessfully by title
+2017-09-03 22:23:06,552 INFO  (main) [Log(info:10)] Flight Finder page validated sucessfully
+2017-09-03 22:23:08,184 INFO  (main) [Log(info:10)] option1=Acapulco
+2017-09-03 22:23:08,184 INFO  (main) [Log(info:10)] option2=Frankfurt
+2017-09-03 22:23:08,184 INFO  (main) [Log(info:10)] option3=London
+2017-09-03 22:23:08,184 INFO  (main) [Log(info:10)] option4=New York
+2017-09-03 22:23:08,184 INFO  (main) [Log(info:10)] option5=Paris
+2017-09-03 22:23:08,184 INFO  (main) [Log(info:10)] option6=Portland
+2017-09-03 22:23:08,184 INFO  (main) [Log(info:10)] option7=San Francisco
+2017-09-03 22:23:08,184 INFO  (main) [Log(info:10)] option8=Seattle
+2017-09-03 22:23:08,184 INFO  (main) [Log(info:10)] option9=Sydney
+2017-09-03 22:23:08,184 INFO  (main) [Log(info:10)] option10=Zurich
+2017-09-03 22:23:31,465 INFO  (main) [Log(info:10)] Select Flight page validated sucessfully
+2017-09-03 22:23:38,848 INFO  (main) [Log(info:10)] Flight Booking page validated sucessfully
+2017-09-03 22:24:02,760 INFO  (main) [Log(info:10)] Iternity is successfully generated
